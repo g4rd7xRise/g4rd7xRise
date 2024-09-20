@@ -36,10 +36,9 @@
 
 ---
 
-<h2>📊 My GitHub Stats</h2>
+<h2>📊 GitHub Activity Snake</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
