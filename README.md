@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Frontend Developer | 🎨 UI/UX Specialist | 🚀 Innovator in Web Development</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=g4rd7xRise&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 <h2>📊 My GitHub Stats</h2>
 <p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g4rd7xRise&theme=chartreuse_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g4rd7xRise&theme=tokyonight"
 </p>
 
 ---
