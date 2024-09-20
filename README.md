@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  Hi there! I'm <strong>[Your Name]</strong>, a passionate Frontend Developer dedicated to building responsive, visually appealing, and highly interactive user interfaces. I strive to merge clean code with seamless user experiences, staying ahead of the curve with cutting-edge technologies.
+  Hi there! I'm <strong>Ruslan</strong>, a passionate Frontend Developer dedicated to crafting responsive, visually stunning, and highly interactive user interfaces. I specialize in combining clean code with seamless user experiences while staying up to date with the latest technologies.
 </p>
 
 ---
@@ -28,18 +28,18 @@
 
 <h2>💡 My Development Philosophy</h2>
 <ul>
-  <li><strong>Attention to Detail:</strong> I ensure every pixel and interaction is flawless across all devices.</li>
-  <li><strong>Performance First:</strong> I focus on writing optimized code for blazing-fast load times and smooth user experiences.</li>
-  <li><strong>Responsive Design:</strong> Crafting layouts that look stunning and function seamlessly on any screen size.</li>
+  <li><strong>Attention to Detail:</strong> Every pixel and interaction is meticulously crafted to ensure a flawless user experience across all devices.</li>
+  <li><strong>Performance First:</strong> I optimize code for fast load times and seamless interactions.</li>
+  <li><strong>Responsive Design:</strong> My designs are adaptive, ensuring they look great and function smoothly on all screen sizes.</li>
 </ul>
 
 ---
 
-<h2>🔥 Highlights</h2>
+<h2>🔥 Professional Highlights</h2>
 <ul>
-  <li>Built and optimized high-traffic, dynamic web applications.</li>
-  <li>Contributed to open-source projects and collaborative development.</li>
-  <li>Expertise in modern frontend workflows, including performance tuning and responsive design.</li>
+  <li>Contributed to high-traffic, data-driven web applications for enterprise-level clients.</li>
+  <li>Worked on projects requiring advanced frontend architecture, delivering maintainable and scalable solutions.</li>
+  <li>Specialist in modern frontend workflows, performance optimization, and UI/UX design integration.</li>
 </ul>
 
 ---
@@ -49,14 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-<h2>🚀 Featured Projects</h2>
-<ul>
-  <li><a href="https://github.com/yourusername/project1">🌐 Project 1</a> - A dynamic web app for real-time collaboration.</li>
-  <li><a href="https://github.com/yourusername/project2">📱 Project 2</a> - A mobile-first, responsive e-commerce platform.</li>
-</ul>
 
 ---
 
