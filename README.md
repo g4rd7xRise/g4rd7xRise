@@ -36,8 +36,10 @@
 
 ---
 
-<h2>📊 GitHub Activity Snake</h2>
-![GitHub Snake](https://github.com/yourusername/g4rd7xRise/blob/output/github-contribution-grid-snake.svg)
+<h2>📊 My GitHub Stats</h2>
+<p align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g4rd7xRise&theme=chartreuse_dark)
+</p>
 
 ---
 
