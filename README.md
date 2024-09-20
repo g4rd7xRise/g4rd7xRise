@@ -37,9 +37,7 @@
 ---
 
 <h2>📊 GitHub Activity Snake</h2>
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+![GitHub Snake](https://github.com/yourusername/g4rd7xRise/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
