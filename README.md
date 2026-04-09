@@ -14,7 +14,7 @@
 
 <h2>🏆 Achievements & Milestones</h2>
 <ul>
-  <li><strong>5+ years of experience</strong> in frontend development, building projects for leading companies in diverse industries.</li>
+  <li><strong>6+ years of experience</strong> in frontend development, building projects for leading companies in diverse industries.</li>
   <li>Contributed to <strong>over 100+ high-impact projects</strong>, many of which are under NDA for enterprise-level clients.</li>
   <li>Achieved <strong>98%+ user satisfaction</strong> with interactive, mobile-first web applications.</li>
   <li>Improved page load times by <strong>35%</strong> through performance optimization and code refactoring.</li>
